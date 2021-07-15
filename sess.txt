@@ -1,0 +1,26 @@
+#
+nameAuction
+infoAuction
+date 0.0.0
+time 00:00
+address
+start_lot
+key
+nameLot
+seller
+start
+finish
+end_lot
+start_buyer
+nameBuyer
+key
+end_buyer
+start_finish
+key
+nameLot
+seller
+start
+finish
+nameBuyer
+key
+end_finish
